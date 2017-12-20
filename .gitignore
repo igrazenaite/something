@@ -1,0 +1,9 @@
+/target
+/build/
+/node_modules
+.classpath
+.project
+meow
+meownotest
+shoe
+shoenotest
